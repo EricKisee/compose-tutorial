@@ -112,7 +112,7 @@ fun MessageCard(msg:Message) {
     }
 }
 
-@Preview(name="Light Mode")
+@Preview(name="Dark Mode")
 @Preview(
     uiMode = Configuration.UI_MODE_NIGHT_YES,
     showBackground = true,
